@@ -21,7 +21,7 @@ Execute the program
  <title>TIME TABLE</title> 
  </head> 
  <body> 
- <table border = "1" cellspacing="1" bordercolor="yellow"  bgcolor="purple"> 
+ <table border = "1" cellspacing="1" bordercolor="black"  bgcolor="DarkSalmon"> 
  <img src="logo.png">
  <tr> 
  <th colspan="8">TIME TABLE</th> 
@@ -83,7 +83,7 @@ Execute the program
  
  </head> 
  <body> 
- <table border = "1" cellspacing="1" bordercolor="yellow"  bgcolor="purple"> 
+ <table border = "1" cellspacing="1" bordercolor="black"  bgcolor="DarkSalmon"> 
  <img src="logo.png">
  <tr> 
  <th colspan="8">TIME TABLE</th> 
