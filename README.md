@@ -35,32 +35,33 @@ Execute the program
  <th>1</th> 
  <th>2</th> 
  <th>3</th> 
- <th>4</th> 
- <th rowspan="6">lunch break</th> 
+ <th>4</th>  
  <th>5</th> 
- <th>6</th> 
+ <th>6</th>
+<th>7</th> 
  </tr> 
   
  <tr> 
- <td>MONDAY</td>  <td colspan="2">EVS</td>  <td colspan="2">Linear Algebra Laboratory(Lab)</td> 
- <td colspan="2">Mathematics for Artificial Intelligence</td>  </tr>
+ <td>MONDAY</td>  <td colspan="2">19MC802-Environmental Science</td>  <td colspan="2">19MA221-Linear Algebra Laboratory</td> <td>ECA051-Mentoring</td>
+ <td colspan="2">19MA220-Mathematics for Artificial Intelligence</td>  </tr>
 
 <tr>
- <td>TUESDAY</td>  <td colspan="2">Web Technology(Lab)</td>  <td colspan="2">Mechanics(Theory)</td> 
- <td colspan="2">Engineering Design and Modeling(Lab)</td>  </tr>
+ <td>TUESDAY</td>  <td colspan="2">19AI402-Web Technology Labaratory</td>  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>
+<th rowspan="4">lunch break</th> 
+ <td colspan="2">19AI302-Engineering Design and Modeling</td>  </tr>
 
 <tr>
- <td>WEDNESDAY</td>  <td colspan="2">Web Technology(Theory)</td>   
- <td colspan="2">Maths for AI(Lab)</td>   
+ <td>WEDNESDAY</td>  <td colspan="2">19AI401-Fundamentals of Web Technology</td>   
+ <td colspan="2">19MA220-Mathematics for Artificial Intelligence</td>   
  <td colspan="2">-</td>  </tr>
 
 <tr>
- <td>THURSDAY</td>  <td colspan="2">Engineering Design and Modeling(Lab)</td>  <td colspan="2">Python Programming(Theory)</td>  
-  <td colspan="2">Mechanics</td>  </tr>
+ <td>THURSDAY</td>  <td colspan="2">19AI302-Engineering Design and Modeling</td>  <td colspan="2">19AI301-Python Programming</td>  
+  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>  </tr>
 
 <tr>
- <td>FRIDAY</td>  <td colspan="2">Web Technology(Lab)</td>  <td colspan="2">Python Programming(Theory)</td> 
-   <td colspan="2" >System of Numerical and Logical Terminologies</td>  </tr>
+ <td>FRIDAY</td>  <td colspan="2">19AI401-Fundamentals of Web Technology</td>  <td colspan="2">19AI301-Python Programming</td> 
+   <td colspan="2" >19EY703-System of Numerical and Logical Terminologies</td>  </tr>
 
 <tr>
  <td>SATURDAY</td>  <td colspan="7" align="center">Leave</td>  
@@ -80,7 +81,6 @@ Execute the program
 <html> 
  <head> 
  <title>TIME TABLE</title> 
- 
  </head> 
  <body> 
  <table border = "1" cellspacing="1" bordercolor="black"  bgcolor="DarkSalmon"> 
@@ -97,32 +97,33 @@ Execute the program
  <th>1</th> 
  <th>2</th> 
  <th>3</th> 
- <th>4</th> 
- <th rowspan="6">lunch break</th> 
+ <th>4</th>  
  <th>5</th> 
- <th>6</th> 
+ <th>6</th>
+<th>7</th> 
  </tr> 
   
  <tr> 
- <td>MONDAY</td>  <td colspan="2">EVS</td>  <td colspan="2">Linear Algebra Laboratory(Lab)</td> 
- <td colspan="2">Mathematics for Artificial Intelligence</td>  </tr>
+ <td>MONDAY</td>  <td colspan="2">19MC802-Environmental Science</td>  <td colspan="2">19MA221-Linear Algebra Laboratory</td> <td>ECA051-Mentoring</td>
+ <td colspan="2">19MA220-Mathematics for Artificial Intelligence</td>  </tr>
 
 <tr>
- <td>TUESDAY</td>  <td colspan="2">Web Technology(Lab)</td>  <td colspan="2">Mechanics(Theory)</td> 
- <td colspan="2">Engineering Design and Modeling(Lab)</td>  </tr>
+ <td>TUESDAY</td>  <td colspan="2">19AI402-Web Technology Labaratory</td>  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>
+<th rowspan="4">lunch break</th> 
+ <td colspan="2">19AI302-Engineering Design and Modeling</td>  </tr>
 
 <tr>
- <td>WEDNESDAY</td>  <td colspan="2">Web Technology(Theory)</td>   
- <td colspan="2">Maths for AI(Lab)</td>   
+ <td>WEDNESDAY</td>  <td colspan="2">19AI401-Fundamentals of Web Technology</td>   
+ <td colspan="2">19MA220-Mathematics for Artificial Intelligence</td>   
  <td colspan="2">-</td>  </tr>
 
 <tr>
- <td>THURSDAY</td>  <td colspan="2">Engineering Design and Modeling(Lab)</td>  <td colspan="2">Python Programming(Theory)</td>  
-  <td colspan="2">Mechanics</td>  </tr>
+ <td>THURSDAY</td>  <td colspan="2">19AI302-Engineering Design and Modeling</td>  <td colspan="2">19AI301-Python Programming</td>  
+  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>  </tr>
 
 <tr>
- <td>FRIDAY</td>  <td colspan="2">Web Technology(Lab)</td>  <td colspan="2">Python Programming(Theory)</td> 
-   <td colspan="2" >System of Numerical and Logical Terminologies</td>  </tr>
+ <td>FRIDAY</td>  <td colspan="2">19AI401-Fundamentals of Web Technology</td>  <td colspan="2">19AI301-Python Programming</td> 
+   <td colspan="2" >19EY703-System of Numerical and Logical Terminologies</td>  </tr>
 
 <tr>
  <td>SATURDAY</td>  <td colspan="7" align="center">Leave</td>  
