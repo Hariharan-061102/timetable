@@ -46,7 +46,7 @@ Execute the program
  <td colspan="2">19MA220-Mathematics for Artificial Intelligence</td>  </tr>
 
 <tr>
- <td>TUESDAY</td>  <td colspan="2">19AI402-Web Technology Labaratory</td>  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>
+ <td>TUESDAY</td>  <td colspan="2">19AI402-Web Technology Laboratory</td>  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>
 <th rowspan="4">lunch break</th> 
  <td colspan="2">19AI302-Engineering Design and Modeling</td>  </tr>
 
@@ -108,7 +108,7 @@ Execute the program
  <td colspan="2">19MA220-Mathematics for Artificial Intelligence</td>  </tr>
 
 <tr>
- <td>TUESDAY</td>  <td colspan="2">19AI402-Web Technology Labaratory</td>  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>
+ <td>TUESDAY</td>  <td colspan="2">19AI402-Web Technology Laboratory</td>  <td colspan="2">19AI303-Engineering Mechanics and Product Development</td>
 <th rowspan="4">lunch break</th> 
  <td colspan="2">19AI302-Engineering Design and Modeling</td>  </tr>
 
